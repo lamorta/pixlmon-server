@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Buzzwole",
+  "pokemon": "Buzzwole",
+  "stats": {
+    "HP": 107,
+    "Attack": 139,
+    "Defence": 139,
+    "Speed": 79,
+    "SpecialAttack": 53,
+    "SpecialDefence": 53
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "height": 5.0,
+  "width": 2.4,
+  "length": 2.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 2
+  },
+  "weight": 333.6,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Fell Stinger",
+      "Thunder Punch",
+      "Ice Punch",
+      "Reversal",
+      "Harden",
+      "Power-Up Punch",
+      "Focus Energy"
+    ],
+    "7": [
+      "Comet Punch"
+    ],
+    "13": [
+      "Bulk Up"
+    ],
+    "19": [
+      "Vital Throw"
+    ],
+    "23": [
+      "Endure"
+    ],
+    "29": [
+      "Leech Life"
+    ],
+    "31": [
+      "Taunt"
+    ],
+    "37": [
+      "Mega Punch"
+    ],
+    "43": [
+      "Counter"
+    ],
+    "47": [
+      "Hammer Arm"
+    ],
+    "53": [
+      "Lunge"
+    ],
+    "59": [
+      "Dynamic Punch"
+    ],
+    "67": [
+      "Superpower"
+    ],
+    "73": [
+      "Focus Punch"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Leech Life",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Echoed Voice",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Dual Chop",
+    "Iron Head",
+    "Bounce",
+    "Thunder Punch",
+    "Ice Punch",
+    "Superpower",
+    "Snore",
+    "Drain Punch",
+    "Focus Punch",
+    "Endeavor",
+    "Outrage",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": -1
+}

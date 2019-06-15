@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Bewear",
+  "pokemon": "Bewear",
+  "stats": {
+    "HP": 120,
+    "Attack": 125,
+    "Defence": 80,
+    "Speed": 60,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60
+  },
+  "catchRate": 70,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 40,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "height": 2.1,
+  "width": 2.1,
+  "length": 2.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Stufful"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 135.0,
+  "evolutions": [],
+  "abilities": [
+    "Fluffy",
+    "Klutz",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer",
+      "Bind"
+    ],
+    "5": [
+      "Bide"
+    ],
+    "10": [
+      "Baby-Doll Eyes"
+    ],
+    "14": [
+      "Brutal Swing"
+    ],
+    "19": [
+      "Flail"
+    ],
+    "23": [
+      "Payback"
+    ],
+    "30": [
+      "Take Down"
+    ],
+    "36": [
+      "Hammer Arm"
+    ],
+    "43": [
+      "Thrash"
+    ],
+    "49": [
+      "Pain Split"
+    ],
+    "56": [
+      "Double-Edge"
+    ],
+    "62": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Iron Head",
+    "Low Kick",
+    "Thunder Punch",
+    "Ice Punch",
+    "Superpower",
+    "Zen Headbutt",
+    "Bind",
+    "Snore",
+    "Role Play",
+    "Pain Split",
+    "Drain Punch",
+    "Focus Punch",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Ice Punch",
+    "Thunder Punch",
+    "Force Palm",
+    "Endure",
+    "Wide Guard",
+    "Mega Kick",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": -1
+}

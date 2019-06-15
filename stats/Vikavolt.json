@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Vikavolt",
+  "pokemon": "Vikavolt",
+  "stats": {
+    "HP": 77,
+    "Attack": 70,
+    "Defence": 90,
+    "Speed": 43,
+    "SpecialAttack": 145,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 20,
+  "baseExp": 225,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Charjabug",
+    "Grubbin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 45.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Air Slash",
+      "Charge",
+      "Vice Grip",
+      "String Shot",
+      "Mud-Slap",
+      "Bite",
+      "Thunderbolt"
+    ],
+    "4": [
+      "String Shot"
+    ],
+    "7": [
+      "Mud-Slap"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Spark"
+    ],
+    "19": [
+      "Acrobatics"
+    ],
+    "25": [
+      "Guillotine"
+    ],
+    "31": [
+      "Bug Buzz"
+    ],
+    "37": [
+      "Dig"
+    ],
+    "41": [
+      "Zap Cannon"
+    ],
+    "49": [
+      "Agility"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Sky Drop",
+    "Acrobatics",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "Magnet Rise",
+    "Iron Defense",
+    "Electroweb",
+    "Snore",
+    "Shock Wave",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Harden",
+    "Electroweb",
+    "Mud Shot",
+    "Endure"
+  ],
+  "forms": {},
+  "form": -1
+}

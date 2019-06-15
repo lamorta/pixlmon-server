@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Passimian",
+  "pokemon": "Passimian",
+  "stats": {
+    "HP": 100,
+    "Attack": 120,
+    "Defence": 90,
+    "Speed": 80,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 82.8,
+  "evolutions": [],
+  "abilities": [
+    "Receiver",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Rock Smash"
+    ],
+    "11": [
+      "Focus Energy"
+    ],
+    "15": [
+      "Beat Up"
+    ],
+    "18": [
+      "Scary Face"
+    ],
+    "22": [
+      "Take Down"
+    ],
+    "25": [
+      "Bestow"
+    ],
+    "29": [
+      "Thrash"
+    ],
+    "32": [
+      "Bulk Up"
+    ],
+    "36": [
+      "Double-Edge"
+    ],
+    "39": [
+      "Fling"
+    ],
+    "43": [
+      "Close Combat"
+    ],
+    "46": [
+      "Reversal"
+    ],
+    "50": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Brutal Swing",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Seed Bomb",
+    "Gunk Shot",
+    "Uproar",
+    "Block",
+    "Superpower",
+    "Electroweb",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Drain Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Endeavor",
+    "Snatch",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Seismic Toss",
+    "Vital Throw",
+    "Quick Guard",
+    "Iron Head",
+    "Quick Attack",
+    "Feint"
+  ],
+  "forms": {},
+  "form": -1
+}

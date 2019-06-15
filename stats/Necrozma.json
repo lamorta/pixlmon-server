@@ -1,0 +1,238 @@
+{
+  "pixelmonName": "Necrozma",
+  "pokemon": "Necrozma",
+  "stats": {
+    "HP": 97,
+    "Attack": 107,
+    "Defence": 101,
+    "Speed": 79,
+    "SpecialAttack": 127,
+    "SpecialDefence": 89
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 70,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 5.5,
+  "width": 2.4,
+  "length": 2.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 2
+  },
+  "weight": 230.0,
+  "evolutions": [],
+  "abilities": [
+    "PrismArmor",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Moonlight",
+      "Morning Sun",
+      "Charge Beam",
+      "Mirror Shot",
+      "Metal Claw",
+      "Confusion"
+    ],
+    "7": [
+      "Slash"
+    ],
+    "13": [
+      "Stored Power"
+    ],
+    "19": [
+      "Rock Blast"
+    ],
+    "23": [
+      "Night Slash"
+    ],
+    "31": [
+      "Gravity"
+    ],
+    "37": [
+      "Psycho Cut"
+    ],
+    "43": [
+      "Power Gem"
+    ],
+    "47": [
+      "Autotomize"
+    ],
+    "50": [
+      "Photon Geyser"
+    ],
+    "53": [
+      "Stealth Rock"
+    ],
+    "59": [
+      "Iron Defense"
+    ],
+    "67": [
+      "Wring Out"
+    ],
+    "73": [
+      "Prismatic Laser"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Brutal Swing",
+    "Embargo",
+    "Shadow Claw",
+    "Smart Strike",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Dark Pulse",
+    "Confide",
+    "Psychic",
+    "Aerial Ace"
+  ],
+  "tutorMoves": [
+    "Signal Beam",
+    "Iron Head",
+    "Earth Power",
+    "Gravity",
+    "Magnet Rise",
+    "Iron Defense",
+    "Dragon Pulse",
+    "Hyper Voice",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Shock Wave",
+    "Outrage",
+    "Recycle",
+    "Stealth Rock",
+    "Telekinesis",
+    "Ally Switch"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 97,
+        "Attack": 157,
+        "Defence": 127,
+        "Speed": 77,
+        "SpecialAttack": 113,
+        "SpecialDefence": 109
+      },
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "height": 3.8,
+      "width": 3.8,
+      "length": 3.8,
+      "evYields": {
+        "Attack": 3
+      },
+      "weight": 460.0,
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 97,
+        "Attack": 113,
+        "Defence": 109,
+        "Speed": 77,
+        "SpecialAttack": 157,
+        "SpecialDefence": 127
+      },
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "height": 4.2,
+      "width": 4.2,
+      "length": 4.2,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "weight": 350.0,
+      "form": 2
+    },
+    "3": {
+      "stats": {
+        "HP": 97,
+        "Attack": 167,
+        "Defence": 97,
+        "Speed": 129,
+        "SpecialAttack": 167,
+        "SpecialDefence": 97
+      },
+      "types": [
+        "Psychic",
+        "Dragon"
+      ],
+      "height": 7.5,
+      "width": 7.5,
+      "length": 7.5,
+      "evYields": {
+        "Attack": 1,
+        "SpecialAttack": 1,
+        "Speed": 1
+      },
+      "abilities": [
+        "Neuroforce",
+        null,
+        null
+      ],
+      "form": 3
+    }
+  },
+  "form": 0
+}

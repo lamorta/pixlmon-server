@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Dewpider",
+  "pokemon": "Dewpider",
+  "stats": {
+    "HP": 38,
+    "Attack": 40,
+    "Defence": 52,
+    "Speed": 27,
+    "SpecialAttack": 40,
+    "SpecialDefence": 72
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 25,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Araquanid"
+      },
+      "conditions": [],
+      "moves": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterBubble",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Water Sport",
+      "Bubble"
+    ],
+    "5": [
+      "Infestation"
+    ],
+    "8": [
+      "Spider Web"
+    ],
+    "13": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Bubble Beam"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "24": [
+      "Aqua Ring"
+    ],
+    "29": [
+      "Leech Life"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "37": [
+      "Lunge"
+    ],
+    "40": [
+      "Mirror Coat"
+    ],
+    "45": [
+      "Liquidation"
+    ],
+    "48": [
+      "Entrainment"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Frost Breath",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "Magic Coat",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Giga Drain",
+    "Water Pulse",
+    "Magic Room",
+    "Wonder Room",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Power Split",
+    "Aurora Beam",
+    "Stockpile",
+    "Spit Up",
+    "Sticky Web"
+  ],
+  "forms": {},
+  "form": -1
+}

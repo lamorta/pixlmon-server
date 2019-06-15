@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Xurkitree",
+  "pokemon": "Xurkitree",
+  "stats": {
+    "HP": 83,
+    "Attack": 89,
+    "Defence": 71,
+    "Speed": 83,
+    "SpecialAttack": 173,
+    "SpecialDefence": 71
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 6.0,
+  "width": 3.8,
+  "length": 3.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 100.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Tail Glow",
+      "Spark",
+      "Charge",
+      "Wrap",
+      "Thunder Shock"
+    ],
+    "7": [
+      "Thunder Wave"
+    ],
+    "13": [
+      "Shock Wave"
+    ],
+    "19": [
+      "Ingrain"
+    ],
+    "23": [
+      "Thunder Punch"
+    ],
+    "29": [
+      "Eerie Impulse"
+    ],
+    "31": [
+      "Signal Beam"
+    ],
+    "37": [
+      "Thunderbolt"
+    ],
+    "43": [
+      "Hypnosis"
+    ],
+    "47": [
+      "Discharge"
+    ],
+    "53": [
+      "Electric Terrain"
+    ],
+    "59": [
+      "Power Whip"
+    ],
+    "67": [
+      "Ion Deluge"
+    ],
+    "73": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Brutal Swing",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Signal Beam",
+    "Thunder Punch",
+    "Magic Coat",
+    "Gravity",
+    "Magnet Rise",
+    "Electroweb",
+    "Bind",
+    "Snore",
+    "Shock Wave"
+  ],
+  "forms": {},
+  "form": -1
+}

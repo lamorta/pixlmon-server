@@ -1,0 +1,217 @@
+{
+  "pixelmonName": "Vibrava",
+  "pokemon": "Vibrava",
+  "stats": {
+    "HP": 50,
+    "Attack": 70,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Trapinch"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -2.0,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.6
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 15.3,
+  "evolutions": [
+    {
+      "level": 45,
+      "to": {
+        "name": "Flygon"
+      },
+      "conditions": [],
+      "moves": [
+        "Dragon Claw"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    "Levitate",
+    "Levitate"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sonic Boom",
+      "Sand Attack",
+      "Feint Attack",
+      "Bide",
+      "Dragon Breath"
+    ],
+    "5": [
+      "Mud-Slap"
+    ],
+    "8": [
+      "Bulldoze"
+    ],
+    "12": [
+      "Sand Tomb"
+    ],
+    "15": [
+      "Rock Slide"
+    ],
+    "19": [
+      "Supersonic"
+    ],
+    "22": [
+      "Screech"
+    ],
+    "26": [
+      "Earth Power"
+    ],
+    "29": [
+      "Bug Buzz"
+    ],
+    "33": [
+      "Earthquake"
+    ],
+    "36": [
+      "Sandstorm"
+    ],
+    "40": [
+      "Uproar"
+    ],
+    "43": [
+      "Hyper Beam"
+    ],
+    "47": [
+      "Boomburst"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Strength",
+    "Defog",
+    "Body Slam",
+    "Double-Edge",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Dragon Breath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Fury Cutter",
+    "Fury Cutter",
+    "Roost",
+    "Dragon Pulse",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Ominous Wind",
+    "Outrage",
+    "Signal Beam",
+    "Superpower",
+    "Tailwind",
+    "Twister",
+    "Bite",
+    "Feint Attack",
+    "Flail",
+    "Gust",
+    "Sonic Boom",
+    "Focus Energy",
+    "Screech",
+    "Uproar",
+    "Defog",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Earth Power",
+    "Endure",
+    "Flail",
+    "Focus Energy",
+    "Fury Cutter",
+    "Gust",
+    "Mud Shot",
+    "Quick Attack",
+    "Signal Beam"
+  ],
+  "forms": {},
+  "form": 0
+}

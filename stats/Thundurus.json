@@ -1,0 +1,216 @@
+{
+  "pixelmonName": "Thundurus",
+  "pokemon": "Thundurus",
+  "stats": {
+    "HP": 79,
+    "Attack": 115,
+    "Defence": 70,
+    "Speed": 111,
+    "SpecialAttack": 125,
+    "SpecialDefence": 80
+  },
+  "catchRate": 3,
+  "malePercent": 100,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 90,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 65.0,
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Thrash",
+      "Hammer Arm",
+      "Nasty Plot",
+      "Charge",
+      "Uproar",
+      "Astonish",
+      "Thunder Shock",
+      "Swagger"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "13": [
+      "Revenge"
+    ],
+    "19": [
+      "Shock Wave"
+    ],
+    "25": [
+      "Heal Block"
+    ],
+    "31": [
+      "Agility"
+    ],
+    "37": [
+      "Discharge"
+    ],
+    "43": [
+      "Crunch"
+    ],
+    "49": [
+      "Charge"
+    ],
+    "55": [
+      "Nasty Plot"
+    ],
+    "61": [
+      "Thunder"
+    ],
+    "67": [
+      "Dark Pulse"
+    ],
+    "73": [
+      "Hammer Arm"
+    ],
+    "79": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Sky Drop",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Rock Smash",
+    "Fly",
+    "Strength",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Shock Wave",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide",
+    "Brutal Swing",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Knock Off",
+    "Role Play",
+    "Superpower",
+    "Uproar",
+    "Agility",
+    "Bite",
+    "Nasty Plot",
+    "Thrash",
+    "Electroweb",
+    "Defog",
+    "Discharge",
+    "Crunch",
+    "Charge",
+    "Nasty Plot",
+    "Thunderbolt",
+    "Focus Blast",
+    "Grass Knot"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 79,
+        "Attack": 105,
+        "Defence": 70,
+        "Speed": 101,
+        "SpecialAttack": 145,
+        "SpecialDefence": 80
+      },
+      "height": 3.5,
+      "isRideable": true,
+      "canFly": true,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.5,
+          "z": -0.1
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.5,
+          "z": -0.1
+        }
+      },
+      "weight": 61.0,
+      "abilities": [
+        "VoltAbsorb",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

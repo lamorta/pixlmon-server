@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Kommo-o",
+  "pokemon": "Kommoo",
+  "stats": {
+    "HP": 75,
+    "Attack": 110,
+    "Defence": 125,
+    "Speed": 85,
+    "SpecialAttack": 100,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 45,
+  "spawnLevelRange": 20,
+  "baseExp": 270,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon",
+    "Fighting"
+  ],
+  "height": 1.6,
+  "width": 1.6,
+  "length": 1.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hakamoo",
+    "Jangmoo"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 3
+  },
+  "weight": 78.2,
+  "evolutions": [],
+  "abilities": [
+    "Bulletproof",
+    "Soundproof",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 40,
+  "levelUpMoves": {
+    "0": [
+      "Sky Uppercut",
+      "Belly Drum",
+      "Autotomize",
+      "Tackle",
+      "Leer",
+      "Bide",
+      "Protect",
+      "Clanging Scales"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "9": [
+      "Bide"
+    ],
+    "13": [
+      "Protect"
+    ],
+    "17": [
+      "Dragon Tail"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "25": [
+      "Headbutt"
+    ],
+    "29": [
+      "Work Up"
+    ],
+    "33": [
+      "Screech"
+    ],
+    "38": [
+      "Iron Defense"
+    ],
+    "43": [
+      "Dragon Claw"
+    ],
+    "51": [
+      "Noble Roar"
+    ],
+    "59": [
+      "Dragon Dance"
+    ],
+    "67": [
+      "Outrage"
+    ],
+    "75": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Dragon Tail",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Chop",
+    "Iron Head",
+    "Low Kick",
+    "Uproar",
+    "Thunder Punch",
+    "Fire Punch",
+    "Ice Punch",
+    "Iron Defense",
+    "Superpower",
+    "Aqua Tail",
+    "Dragon Pulse",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Drain Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Water Pulse",
+    "Endeavor",
+    "Outrage",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Reversal",
+    "Dragon Breath"
+  ],
+  "forms": {},
+  "form": -1
+}

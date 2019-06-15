@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Morelull",
+  "pokemon": "Morelull",
+  "stats": {
+    "HP": 40,
+    "Attack": 35,
+    "Defence": 55,
+    "Speed": 15,
+    "SpecialAttack": 65,
+    "SpecialDefence": 75
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 24,
+  "baseExp": 57,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "level": 24,
+      "to": {
+        "name": "Shiinotic"
+      },
+      "conditions": [],
+      "moves": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Illuminate",
+    "EffectSpore",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "4": [
+      "Astonish"
+    ],
+    "8": [
+      "Flash"
+    ],
+    "11": [
+      "Moonlight"
+    ],
+    "15": [
+      "Mega Drain"
+    ],
+    "18": [
+      "Sleep Powder"
+    ],
+    "22": [
+      "Ingrain"
+    ],
+    "25": [
+      "Confuse Ray"
+    ],
+    "29": [
+      "Giga Drain"
+    ],
+    "32": [
+      "Strength Sap"
+    ],
+    "36": [
+      "Spore"
+    ],
+    "39": [
+      "Moonblast"
+    ],
+    "43": [
+      "Dream Eater"
+    ],
+    "46": [
+      "Spotlight"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Thunder Wave",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Signal Beam",
+    "Seed Bomb",
+    "Magic Coat",
+    "Snore",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "After You",
+    "Magic Room",
+    "Wonder Room",
+    "Recycle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Poison Powder",
+    "Stun Spore",
+    "Growth",
+    "Leech Seed"
+  ],
+  "forms": {},
+  "form": -1
+}

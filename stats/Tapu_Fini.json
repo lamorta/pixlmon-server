@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "TapuFini",
+  "pokemon": "Tapu_Fini",
+  "stats": {
+    "HP": 70,
+    "Attack": 75,
+    "Defence": 115,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 130
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 21.2,
+  "evolutions": [],
+  "abilities": [
+    "MistySurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Misty Terrain",
+      "Moonblast",
+      "Heal Pulse",
+      "Mean Look",
+      "Haze",
+      "Mist",
+      "Withdraw",
+      "Water Gun"
+    ],
+    "8": [
+      "Water Pulse"
+    ],
+    "14": [
+      "Whirlpool"
+    ],
+    "20": [
+      "Soak"
+    ],
+    "26": [
+      "Refresh"
+    ],
+    "32": [
+      "Brine"
+    ],
+    "38": [
+      "Defog"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Muddy Water"
+    ],
+    "53": [
+      "Aqua Ring"
+    ],
+    "58": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Smart Strike",
+    "Giga Impact",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Nature Power",
+    "Waterfall",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Ice Punch",
+    "Magic Coat",
+    "Gravity",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Knock Off",
+    "Water Pulse",
+    "Trick",
+    "Magic Room",
+    "Wonder Room",
+    "Telekinesis",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0
+}

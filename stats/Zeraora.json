@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Zeraora",
+  "pokemon": "Zeraora",
+  "stats": {
+    "HP": 88,
+    "Attack": 112,
+    "Defence": 75,
+    "Speed": 143,
+    "SpecialAttack": 102,
+    "SpecialDefence": 80
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 3
+  },
+  "weight": 44.5,
+  "evolutions": [],
+  "abilities": [
+    "VoltAbsorb",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Spark"
+    ],
+    "5": [
+      "Hone Claws"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Volt Switch"
+    ],
+    "19": [
+      "Snarl"
+    ],
+    "22": [
+      "Fake Out"
+    ],
+    "26": [
+      "Charge"
+    ],
+    "29": [
+      "Thunder Punch"
+    ],
+    "33": [
+      "Slash"
+    ],
+    "36": [
+      "Wild Charge"
+    ],
+    "40": [
+      "Quick Guard"
+    ],
+    "43": [
+      "Plasma Fists"
+    ],
+    "47": [
+      "Close Combat"
+    ],
+    "50": [
+      "Discharge"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Brutal Swing",
+    "Acrobatics",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Bounce",
+    "Low Kick",
+    "Thunder Punch",
+    "Fire Punch",
+    "Superpower",
+    "Electroweb",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Drain Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Endeavor",
+    "Outrage",
+    "Snatch",
+    "Throat Chop",
+    "Laser Focus"
+  ],
+  "forms": {},
+  "form": -1
+}

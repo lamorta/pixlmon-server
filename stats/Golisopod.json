@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Golisopod",
+  "pokemon": "Golisopod",
+  "stats": {
+    "HP": 75,
+    "Attack": 125,
+    "Defence": 140,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 186,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Wimpod"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 108.0,
+  "evolutions": [],
+  "abilities": [
+    "EmergencyExit",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug",
+    "Water3"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Struggle Bug",
+      "Sand Attack",
+      "Fury Cutter",
+      "Rock Smash",
+      "First Impression"
+    ],
+    "4": [
+      "Fury Cutter"
+    ],
+    "7": [
+      "Rock Smash"
+    ],
+    "10": [
+      "Bug Bite"
+    ],
+    "13": [
+      "Spite"
+    ],
+    "16": [
+      "Swords Dance"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "26": [
+      "Razor Shell"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "41": [
+      "Pin Missile"
+    ],
+    "48": [
+      "Liquidation"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "Psych Up",
+    "Frost Breath",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Snarl",
+    "Dark Pulse",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Dual Chop",
+    "Iron Head",
+    "Drill Run",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Water Pulse",
+    "Spite",
+    "Endeavor",
+    "Liquidation",
+    "Throat Chop",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Spikes",
+    "Metal Claw",
+    "Wide Guard",
+    "Harden",
+    "Aqua Jet"
+  ],
+  "forms": {},
+  "form": 0
+}

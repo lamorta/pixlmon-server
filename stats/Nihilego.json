@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Nihilego",
+  "pokemon": "Nihilego",
+  "stats": {
+    "HP": 109,
+    "Attack": 53,
+    "Defence": 47,
+    "Speed": 103,
+    "SpecialAttack": 127,
+    "SpecialDefence": 131
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Poison"
+  ],
+  "height": 4.0,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 55.5,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Power Split",
+      "Guard Split",
+      "Tickle",
+      "Acid",
+      "Constrict",
+      "Pound"
+    ],
+    "7": [
+      "Clear Smog"
+    ],
+    "13": [
+      "Psywave"
+    ],
+    "19": [
+      "Headbutt"
+    ],
+    "23": [
+      "Venoshock"
+    ],
+    "29": [
+      "Toxic Spikes"
+    ],
+    "31": [
+      "Safeguard"
+    ],
+    "37": [
+      "Power Gem"
+    ],
+    "43": [
+      "Mirror Coat"
+    ],
+    "47": [
+      "Acid Spray"
+    ],
+    "53": [
+      "Venom Drench"
+    ],
+    "59": [
+      "Stealth Rock"
+    ],
+    "67": [
+      "Wonder Room"
+    ],
+    "73": [
+      "Head Smash"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Brutal Swing",
+    "Thunder Wave",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Gunk Shot",
+    "Magic Coat",
+    "Foul Play",
+    "Zen Headbutt",
+    "Bind",
+    "Snore",
+    "Knock Off",
+    "Role Play",
+    "Pain Split",
+    "Worry Seed",
+    "Spite",
+    "Wonder Room",
+    "Stealth Rock",
+    "Telekinesis",
+    "Ally Switch"
+  ],
+  "forms": {},
+  "form": -1
+}

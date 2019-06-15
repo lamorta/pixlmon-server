@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Basculin",
+  "pokemon": "Basculin",
+  "stats": {
+    "HP": 70,
+    "Attack": 92,
+    "Defence": 65,
+    "Speed": 98,
+    "SpecialAttack": 80,
+    "SpecialDefence": 55
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 18.0,
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "Adaptability",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tail Whip",
+      "Tackle",
+      "Water Gun"
+    ],
+    "3": [
+      "Uproar"
+    ],
+    "5": [
+      "Headbutt"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "9": [
+      "Aqua Jet"
+    ],
+    "11": [
+      "Chip Away"
+    ],
+    "14": [
+      "Take Down"
+    ],
+    "17": [
+      "Crunch"
+    ],
+    "20": [
+      "Aqua Tail"
+    ],
+    "23": [
+      "Soak"
+    ],
+    "26": [
+      "Double-Edge"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "34": [
+      "Flail"
+    ],
+    "38": [
+      "Final Gambit"
+    ],
+    "42": [
+      "Thrash"
+    ],
+    "46": [
+      "Head Smash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Endeavor",
+    "Icy Wind",
+    "Liquidation",
+    "Snore",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Brine",
+    "Bubble Beam",
+    "Head Smash",
+    "Mud Shot",
+    "Muddy Water",
+    "Rage",
+    "Revenge",
+    "Swift",
+    "Whirlpool"
+  ],
+  "forms": {
+    "1": {
+      "abilities": [
+        "RockHead",
+        "Adaptability",
+        "MoldBreaker"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

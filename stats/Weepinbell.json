@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Weepinbell",
+  "pokemon": "Weepinbell",
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 50,
+    "Speed": 55,
+    "SpecialAttack": 85,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 29,
+  "baseExp": 151,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bellsprout"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 6.4,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Victreebel"
+      },
+      "conditions": [],
+      "moves": [
+        "Leaf Tornado"
+      ],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Vine Whip",
+      "Growth",
+      "Wrap"
+    ],
+    "7": [
+      "Growth"
+    ],
+    "11": [
+      "Wrap"
+    ],
+    "13": [
+      "Sleep Powder"
+    ],
+    "15": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Stun Spore"
+    ],
+    "24": [
+      "Acid"
+    ],
+    "29": [
+      "Knock Off"
+    ],
+    "32": [
+      "Sweet Scent"
+    ],
+    "39": [
+      "Gastro Acid"
+    ],
+    "44": [
+      "Razor Leaf"
+    ],
+    "47": [
+      "Poison Jab"
+    ],
+    "54": [
+      "Slam"
+    ],
+    "58": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Confide",
+    "Poison Jab"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Gastro Acid",
+    "Knock Off",
+    "Seed Bomb",
+    "Sucker Punch",
+    "Synthesis",
+    "Worry Seed",
+    "Encore",
+    "Growth",
+    "Lovely Kiss",
+    "Morning Sun",
+    "Sweet Kiss",
+    "Teeter Dance",
+    "Tickle",
+    "Weather Ball"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Bullet Seed",
+    "Clear Smog",
+    "Encore",
+    "Giga Drain",
+    "Ingrain",
+    "Leech Life",
+    "Magical Leaf",
+    "Natural Gift",
+    "Power Whip",
+    "Synthesis",
+    "Tickle",
+    "Weather Ball",
+    "Worry Seed",
+    "Belch",
+    "Strength Sap"
+  ],
+  "forms": {},
+  "form": 0
+}

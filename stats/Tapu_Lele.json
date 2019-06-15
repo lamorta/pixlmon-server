@@ -1,0 +1,143 @@
+{
+  "pixelmonName": "TapuLele",
+  "pokemon": "Tapu_Lele",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 75,
+    "Speed": 95,
+    "SpecialAttack": 130,
+    "SpecialDefence": 115
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 18.6,
+  "evolutions": [],
+  "abilities": [
+    "PsychicSurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Psychic Terrain",
+      "Aromatic Mist",
+      "Aromatherapy",
+      "Mean Look",
+      "Draining Kiss",
+      "Astonish",
+      "Withdraw",
+      "Confusion"
+    ],
+    "8": [
+      "Psywave"
+    ],
+    "14": [
+      "Psybeam"
+    ],
+    "20": [
+      "Sweet Scent"
+    ],
+    "26": [
+      "Skill Swap"
+    ],
+    "32": [
+      "Psyshock"
+    ],
+    "38": [
+      "Tickle"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Extrasensory"
+    ],
+    "53": [
+      "Flatter"
+    ],
+    "58": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Magic Coat",
+    "Gravity",
+    "Iron Defense",
+    "Snore",
+    "Magic Room",
+    "Wonder Room",
+    "Skill Swap",
+    "Telekinesis",
+    "Ally Switch"
+  ],
+  "forms": {},
+  "form": 0
+}

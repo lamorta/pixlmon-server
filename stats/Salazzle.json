@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Salazzle",
+  "pokemon": "Salazzle",
+  "stats": {
+    "HP": 68,
+    "Attack": 64,
+    "Defence": 60,
+    "Speed": 117,
+    "SpecialAttack": 111,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 35,
+  "spawnLevelRange": 50,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Fire"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Salandit"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 22.2,
+  "evolutions": [],
+  "abilities": [
+    "Corrosion",
+    null,
+    "Oblivious"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Disable",
+      "Encore",
+      "Torment",
+      "Swagger",
+      "Pound",
+      "Poison Gas",
+      "Ember",
+      "Sweet Scent",
+      "Captivate"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "Sweet Scent"
+    ],
+    "13": [
+      "Dragon Rage"
+    ],
+    "16": [
+      "Smog"
+    ],
+    "21": [
+      "Double Slap"
+    ],
+    "24": [
+      "Flame Burst"
+    ],
+    "29": [
+      "Toxic"
+    ],
+    "32": [
+      "Nasty Plot"
+    ],
+    "39": [
+      "Venoshock"
+    ],
+    "44": [
+      "Flamethrower"
+    ],
+    "51": [
+      "Venom Drench"
+    ],
+    "56": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Dragon Claw",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide",
+    "Acrobatics",
+    "Dragon Tail"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Foul Play",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Helping Hand",
+    "Snatch"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Knock Off",
+    "Sand Attack",
+    "Snatch",
+    "Fake Out"
+  ],
+  "forms": {},
+  "form": -1
+}

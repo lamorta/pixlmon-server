@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Solgaleo",
+  "pokemon": "Solgaleo",
+  "stats": {
+    "HP": 137,
+    "Attack": 137,
+    "Defence": 107,
+    "Speed": 97,
+    "SpecialAttack": 113,
+    "SpecialDefence": 89
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 55,
+  "spawnLevelRange": 0,
+  "baseExp": 136,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Steel"
+  ],
+  "height": 3.4,
+  "width": 3.4,
+  "length": 3.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cosmog",
+    "Cosmoem"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 230.0,
+  "evolutions": [],
+  "abilities": [
+    "FullMetalBody",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Cosmic Power",
+      "Wake-Up Slap",
+      "Teleport",
+      "Metal Claw",
+      "Sunsteel Strike"
+    ],
+    "7": [
+      "Iron Head"
+    ],
+    "13": [
+      "Metal Sound"
+    ],
+    "19": [
+      "Zen Headbutt"
+    ],
+    "23": [
+      "Flash Cannon"
+    ],
+    "31": [
+      "Morning Sun"
+    ],
+    "37": [
+      "Crunch"
+    ],
+    "43": [
+      "Metal Burst"
+    ],
+    "47": [
+      "Solar Beam"
+    ],
+    "59": [
+      "Noble Roar"
+    ],
+    "61": [
+      "Flare Blitz"
+    ],
+    "67": [
+      "Wide Guard"
+    ],
+    "73": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Wild Charge",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Iron Defense",
+    "Last Resort",
+    "Superpower",
+    "Zen Headbutt",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Shock Wave",
+    "Endeavor",
+    "Outrage"
+  ],
+  "forms": {},
+  "form": 0
+}

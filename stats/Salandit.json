@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Salandit",
+  "pokemon": "Salandit",
+  "stats": {
+    "HP": 48,
+    "Attack": 44,
+    "Defence": 40,
+    "Speed": 77,
+    "SpecialAttack": 71,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 35,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Fire"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.8,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Salazzle"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "moves": [
+        "Captivate"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Corrosion",
+    null,
+    "Oblivious"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Poison Gas"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "Sweet Scent"
+    ],
+    "13": [
+      "Dragon Rage"
+    ],
+    "16": [
+      "Smog"
+    ],
+    "21": [
+      "Double Slap"
+    ],
+    "24": [
+      "Flame Burst"
+    ],
+    "29": [
+      "Toxic"
+    ],
+    "32": [
+      "Nasty Plot"
+    ],
+    "37": [
+      "Venoshock"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "45": [
+      "Venom Drench"
+    ],
+    "48": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Dragon Claw",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Foul Play",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Helping Hand",
+    "Snatch"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Knock Off",
+    "Sand Attack",
+    "Snatch",
+    "Fake Out"
+  ],
+  "forms": {},
+  "form": -1
+}

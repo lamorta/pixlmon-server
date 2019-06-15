@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Brionne",
+  "pokemon": "Brionne",
+  "stats": {
+    "HP": 60,
+    "Attack": 69,
+    "Defence": 69,
+    "Speed": 50,
+    "SpecialAttack": 91,
+    "SpecialDefence": 81
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Popplio"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 17.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Primarina"
+      },
+      "conditions": [],
+      "moves": [
+        "Sparkling Aria"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "LiquidVoice"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Water Gun",
+      "Growl",
+      "Disarming Voice"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Disarming Voice"
+    ],
+    "11": [
+      "Baby-Doll Eyes"
+    ],
+    "14": [
+      "Aqua Jet"
+    ],
+    "16": [
+      "Icy Wind"
+    ],
+    "19": [
+      "Encore"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "28": [
+      "Sing"
+    ],
+    "33": [
+      "Double Slap"
+    ],
+    "37": [
+      "Hyper Voice"
+    ],
+    "42": [
+      "Moonblast"
+    ],
+    "46": [
+      "Captivate"
+    ],
+    "51": [
+      "Hydro Pump"
+    ],
+    "55": [
+      "Misty Terrain"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Acrobatics",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Water Pledge",
+    "Covet",
+    "Uproar",
+    "Icy Wind",
+    "Aqua Tail",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse",
+    "Helping Hand",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Amnesia",
+    "Aqua Ring",
+    "Aromatic Mist",
+    "Perish Song",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": -1
+}

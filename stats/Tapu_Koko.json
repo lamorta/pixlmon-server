@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "TapuKoko",
+  "pokemon": "Tapu_Koko",
+  "stats": {
+    "HP": 70,
+    "Attack": 115,
+    "Defence": 85,
+    "Speed": 130,
+    "SpecialAttack": 95,
+    "SpecialDefence": 75
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 3
+  },
+  "weight": 20.5,
+  "evolutions": [],
+  "abilities": [
+    "ElectricSurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Electric Terrain",
+      "Brave Bird",
+      "Power Swap",
+      "Mean Look",
+      "Quick Attack",
+      "False Swipe",
+      "Withdraw",
+      "Thunder Shock"
+    ],
+    "8": [
+      "Spark"
+    ],
+    "14": [
+      "Shock Wave"
+    ],
+    "20": [
+      "Screech"
+    ],
+    "26": [
+      "Charge"
+    ],
+    "32": [
+      "Wild Charge"
+    ],
+    "38": [
+      "Mirror Move"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Discharge"
+    ],
+    "53": [
+      "Agility"
+    ],
+    "58": [
+      "Electro Ball"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "False Swipe",
+    "Sky Drop",
+    "Acrobatics",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Fly",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Thunder Punch",
+    "Iron Defense",
+    "Electroweb",
+    "Hyper Voice",
+    "Snore",
+    "Sky Attack",
+    "Shock Wave",
+    "Telekinesis",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0
+}

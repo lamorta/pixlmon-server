@@ -1,0 +1,147 @@
+{
+  "pixelmonName": "Mudbray",
+  "pokemon": "Mudbray",
+  "stats": {
+    "HP": 70,
+    "Attack": 100,
+    "Defence": 70,
+    "Speed": 45,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 22,
+  "baseExp": 77,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 110.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Mudsdale"
+      },
+      "conditions": [],
+      "moves": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "OwnTempo",
+    "Stamina",
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Mud-Slap"
+    ],
+    "3": [
+      "Mud Sport"
+    ],
+    "8": [
+      "Rototiller"
+    ],
+    "10": [
+      "Bulldoze"
+    ],
+    "15": [
+      "Double Kick"
+    ],
+    "17": [
+      "Stomp"
+    ],
+    "22": [
+      "Bide"
+    ],
+    "24": [
+      "High Horsepower"
+    ],
+    "29": [
+      "Iron Defense"
+    ],
+    "31": [
+      "Heavy Slam"
+    ],
+    "36": [
+      "Counter"
+    ],
+    "38": [
+      "Earthquake"
+    ],
+    "43": [
+      "Mega Kick"
+    ],
+    "45": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Payback",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Low Kick",
+    "Earth Power",
+    "Iron Defense",
+    "Superpower",
+    "Snore",
+    "Endeavor",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Double-Edge",
+    "Magnitude",
+    "Close Combat",
+    "Mud Bomb"
+  ],
+  "forms": {},
+  "form": -1
+}

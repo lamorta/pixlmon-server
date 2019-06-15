@@ -1,0 +1,357 @@
+{
+  "pixelmonName": "Vulpix",
+  "pokemon": "Vulpix",
+  "stats": {
+    "HP": 38,
+    "Attack": 41,
+    "Defence": 40,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 25,
+  "spawnLevel": 10,
+  "spawnLevelRange": 9,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 0.4,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 9.9,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:fire_stone"
+      },
+      "to": {
+        "name": "Ninetales",
+        "form": 0
+      },
+      "conditions": [],
+      "moves": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "FlashFire",
+    null,
+    "Drought"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Roar"
+    ],
+    "9": [
+      "Baby-Doll Eyes"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Confuse Ray"
+    ],
+    "15": [
+      "Fire Spin"
+    ],
+    "18": [
+      "Payback"
+    ],
+    "20": [
+      "Will-O-Wisp"
+    ],
+    "23": [
+      "Feint Attack"
+    ],
+    "26": [
+      "Hex"
+    ],
+    "28": [
+      "Flame Burst"
+    ],
+    "31": [
+      "Extrasensory"
+    ],
+    "34": [
+      "Safeguard"
+    ],
+    "36": [
+      "Flamethrower"
+    ],
+    "39": [
+      "Imprison"
+    ],
+    "42": [
+      "Fire Blast"
+    ],
+    "44": [
+      "Grudge"
+    ],
+    "47": [
+      "Captivate"
+    ],
+    "50": [
+      "Inferno"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Energy Ball",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Payback",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Heat Wave",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Zen Headbutt",
+    "Charm",
+    "Extrasensory",
+    "Feint Attack",
+    "Flail",
+    "Flare Blitz",
+    "Howl",
+    "Hypnosis",
+    "Inferno"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Disable",
+    "Extrasensory",
+    "Flail",
+    "Flare Blitz",
+    "Heat Wave",
+    "Hex",
+    "Howl",
+    "Hypnosis",
+    "Power Swap",
+    "Secret Power",
+    "Spite",
+    "Tail Slap",
+    "Feint Attack"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Ice"
+      ],
+      "weight": 3.8,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:ice_stone"
+          },
+          "to": {
+            "name": "Ninetales",
+            "form": 1
+          },
+          "conditions": [],
+          "moves": [
+            "Dazzling Gleam"
+          ],
+          "evoType": "interact"
+        }
+      ],
+      "abilities": [
+        "SnowCloak",
+        null,
+        "SnowWarning"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Powder Snow"
+        ],
+        "4": [
+          "Tail Whip"
+        ],
+        "7": [
+          "Roar"
+        ],
+        "9": [
+          "Baby-Doll Eyes"
+        ],
+        "10": [
+          "Ice Shard"
+        ],
+        "12": [
+          "Confuse Ray"
+        ],
+        "15": [
+          "Icy Wind"
+        ],
+        "18": [
+          "Payback"
+        ],
+        "20": [
+          "Mist"
+        ],
+        "23": [
+          "Feint Attack"
+        ],
+        "26": [
+          "Hex"
+        ],
+        "28": [
+          "Aurora Beam"
+        ],
+        "31": [
+          "Extrasensory"
+        ],
+        "34": [
+          "Safeguard"
+        ],
+        "36": [
+          "Ice Beam"
+        ],
+        "39": [
+          "Imprison"
+        ],
+        "42": [
+          "Blizzard"
+        ],
+        "44": [
+          "Grudge"
+        ],
+        "47": [
+          "Captivate"
+        ],
+        "50": [
+          "Sheer Cold"
+        ]
+      },
+      "tmMoves": [
+        "Roar",
+        "Toxic",
+        "Hail",
+        "Hidden Power",
+        "Ice Beam",
+        "Blizzard",
+        "Protect",
+        "Rain Dance",
+        "Safeguard",
+        "Frustration",
+        "Return",
+        "Double Team",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Round",
+        "Payback",
+        "Aurora Veil",
+        "Psych Up",
+        "Frost Breath",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Covet",
+        "Foul Play",
+        "Zen Headbutt",
+        "Iron Tail",
+        "Snore",
+        "Role Play",
+        "Pain Split",
+        "Spite",
+        "Icy Wind",
+        "Aqua Tail",
+        "Heal Bell",
+        "Celebrate"
+      ],
+      "eggMoves": [
+        "Agility",
+        "Charm",
+        "Disable",
+        "Encore",
+        "Extrasensory",
+        "Flail",
+        "Freeze-Dry",
+        "Howl",
+        "Hypnosis",
+        "Moonblast",
+        "Power Swap",
+        "Secret Power",
+        "Spite",
+        "Tail Slap"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

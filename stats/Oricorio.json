@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Oricorio",
+  "pokemon": "Oricorio",
+  "stats": {
+    "HP": 75,
+    "Attack": 70,
+    "Defence": 70,
+    "Speed": 93,
+    "SpecialAttack": 98,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 20,
+  "baseExp": 167,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 3.4,
+  "evolutions": [],
+  "abilities": [
+    "Dancer",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "6": [
+      "Peck"
+    ],
+    "10": [
+      "Helping Hand"
+    ],
+    "13": [
+      "Air Cutter"
+    ],
+    "16": [
+      "Baton Pass"
+    ],
+    "20": [
+      "Feather Dance"
+    ],
+    "23": [
+      "Double Slap"
+    ],
+    "26": [
+      "Teeter Dance"
+    ],
+    "30": [
+      "Roost"
+    ],
+    "33": [
+      "Captivate"
+    ],
+    "36": [
+      "Air Slash"
+    ],
+    "40": [
+      "Revelation Dance"
+    ],
+    "43": [
+      "Mirror Move"
+    ],
+    "46": [
+      "Agility"
+    ],
+    "50": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Quash",
+    "Acrobatics",
+    "Embargo",
+    "Swords Dance",
+    "Fly",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Icy Wind",
+    "Snore",
+    "Role Play",
+    "Tailwind",
+    "Sky Attack",
+    "Helping Hand",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Pluck",
+    "Tailwind",
+    "Safeguard",
+    "Captivate"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "form": 1
+    },
+    "2": {
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "form": 2
+    },
+    "3": {
+      "types": [
+        "Ghost",
+        "Flying"
+      ],
+      "form": 3
+    }
+  },
+  "form": -1
+}

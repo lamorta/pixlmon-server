@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Guzzlord",
+  "pokemon": "Guzzlord",
+  "stats": {
+    "HP": 223,
+    "Attack": 101,
+    "Defence": 53,
+    "Speed": 43,
+    "SpecialAttack": 97,
+    "SpecialDefence": 53
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 5.9,
+  "width": 6.0,
+  "length": 6.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 888.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Belch",
+      "Wide Guard",
+      "Swallow",
+      "Stockpile",
+      "Dragon Rage",
+      "Bite"
+    ],
+    "7": [
+      "Stomp"
+    ],
+    "13": [
+      "Brutal Swing"
+    ],
+    "19": [
+      "Steamroller"
+    ],
+    "23": [
+      "Dragon Tail"
+    ],
+    "29": [
+      "Iron Tail"
+    ],
+    "31": [
+      "Stomping Tantrum"
+    ],
+    "37": [
+      "Crunch"
+    ],
+    "43": [
+      "Hammer Arm"
+    ],
+    "47": [
+      "Thrash"
+    ],
+    "53": [
+      "Gastro Acid"
+    ],
+    "59": [
+      "Heavy Slam"
+    ],
+    "67": [
+      "Wring Out"
+    ],
+    "73": [
+      "Dragon Rush"
+    ]
+  },
+  "tmMoves": [
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Fling",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Confide",
+    "Dark Pulse",
+    "Dragon Tail"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Chop",
+    "Iron Head",
+    "Magnet Rise",
+    "Iron Defense",
+    "Last Resort",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Drain Punch",
+    "Shock Wave",
+    "Gastro Acid",
+    "Outrage",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": -1
+}

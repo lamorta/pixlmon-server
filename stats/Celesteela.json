@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Celesteela",
+  "pokemon": "Celesteela",
+  "stats": {
+    "HP": 97,
+    "Attack": 101,
+    "Defence": 103,
+    "Speed": 61,
+    "SpecialAttack": 107,
+    "SpecialDefence": 101
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "height": 6.0,
+  "width": 4.0,
+  "length": 4.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 999.9,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Wide Guard",
+      "Air Slash",
+      "Ingrain",
+      "Absorb",
+      "Harden",
+      "Tackle"
+    ],
+    "7": [
+      "Smack Down"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "19": [
+      "Leech Seed"
+    ],
+    "23": [
+      "Metal Sound"
+    ],
+    "29": [
+      "Iron Head"
+    ],
+    "31": [
+      "Giga Drain"
+    ],
+    "37": [
+      "Flash Cannon"
+    ],
+    "43": [
+      "Autotomize"
+    ],
+    "47": [
+      "Seed Bomb"
+    ],
+    "53": [
+      "Skull Bash"
+    ],
+    "59": [
+      "Iron Defense"
+    ],
+    "67": [
+      "Heavy Slam"
+    ],
+    "73": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Brutal Swing",
+    "Acrobatics",
+    "Explosion",
+    "Smart Strike",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Fly",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Seed Bomb",
+    "Block",
+    "Gravity",
+    "Magnet Rise",
+    "Iron Defense",
+    "Superpower",
+    "Zen Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Shock Wave",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": -1
+}

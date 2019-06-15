@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Terrakion",
+  "pokemon": "Terrakion",
+  "stats": {
+    "HP": 91,
+    "Attack": 129,
+    "Defence": 90,
+    "Speed": 108,
+    "SpecialAttack": 72,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Rock",
+    "Fighting"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.3
+    }
+  },
+  "weight": 260.0,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Close Combat",
+      "Work Up",
+      "Quick Guard",
+      "Quick Attack",
+      "Leer",
+      "Double Kick",
+      "Smack Down"
+    ],
+    "7": [
+      "Take Down"
+    ],
+    "13": [
+      "Helping Hand"
+    ],
+    "19": [
+      "Retaliate"
+    ],
+    "25": [
+      "Rock Slide"
+    ],
+    "31": [
+      "Sacred Sword"
+    ],
+    "37": [
+      "Swords Dance"
+    ],
+    "42": [
+      "Quick Guard"
+    ],
+    "49": [
+      "Work Up"
+    ],
+    "55": [
+      "Stone Edge"
+    ],
+    "61": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Take Down",
+    "Snore",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Helping Hand",
+    "Iron Head",
+    "Superpower",
+    "Zen Headbutt",
+    "Leer",
+    "Laser Focus",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": 0
+}

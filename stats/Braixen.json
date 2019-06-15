@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Braixen",
+  "pokemon": "Braixen",
+  "stats": {
+    "HP": 59,
+    "Attack": 59,
+    "Defence": 58,
+    "Speed": 73,
+    "SpecialAttack": 90,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 143,
+  "baseFriendship": 0,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Fennekin"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 14.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Delphox"
+      },
+      "conditions": [],
+      "moves": [
+        "Mystical Fire"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Magician"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Tail Whip",
+      "Ember"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "11": [
+      "Howl"
+    ],
+    "14": [
+      "Flame Charge"
+    ],
+    "18": [
+      "Psybeam"
+    ],
+    "22": [
+      "Fire Spin"
+    ],
+    "28": [
+      "Lucky Chant"
+    ],
+    "31": [
+      "Light Screen"
+    ],
+    "36": [
+      "Psyshock"
+    ],
+    "41": [
+      "Flamethrower"
+    ],
+    "45": [
+      "Will-O-Wisp"
+    ],
+    "49": [
+      "Psychic"
+    ],
+    "52": [
+      "Sunny Day"
+    ],
+    "56": [
+      "Magic Room"
+    ],
+    "59": [
+      "Fire Blast"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Fire Punch",
+    "Iron Tail",
+    "Recycle",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Thunder Punch",
+    "Work Up"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Fire Pledge",
+    "Foul Play",
+    "Heat Wave",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Laser Focus",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Heat Wave",
+    "Hypnosis",
+    "Magic Coat",
+    "Wish",
+    "Psychic Terrain"
+  ],
+  "forms": {},
+  "form": 0
+}

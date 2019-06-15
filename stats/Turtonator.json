@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Turtonator",
+  "pokemon": "Turtonator",
+  "stats": {
+    "HP": 60,
+    "Attack": 78,
+    "Defence": 135,
+    "Speed": 36,
+    "SpecialAttack": 91,
+    "SpecialDefence": 85
+  },
+  "catchRate": 70,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Dragon"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 212.0,
+  "evolutions": [],
+  "abilities": [
+    "ShellArmour",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Tackle"
+    ],
+    "5": [
+      "Smog"
+    ],
+    "9": [
+      "Protect"
+    ],
+    "13": [
+      "Incinerate"
+    ],
+    "17": [
+      "Flail"
+    ],
+    "21": [
+      "Endure"
+    ],
+    "25": [
+      "Iron Defense"
+    ],
+    "29": [
+      "Flamethrower"
+    ],
+    "33": [
+      "Body Slam"
+    ],
+    "37": [
+      "Shell Smash"
+    ],
+    "41": [
+      "Dragon Pulse"
+    ],
+    "45": [
+      "Shell Trap"
+    ],
+    "49": [
+      "Overheat"
+    ],
+    "53": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide",
+    "Work Up",
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Fire Blast",
+    "Explosion",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Taunt",
+    "Overheat",
+    "Dragon Claw",
+    "Bulk Up",
+    "Payback",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Flash Cannon",
+    "Charge Beam",
+    "Venoshock",
+    "Smack Down",
+    "Flame Charge",
+    "Dragon Tail",
+    "Work Up",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Endeavor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Fire Spin",
+    "Revenge",
+    "Head Smash",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

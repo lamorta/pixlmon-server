@@ -1,0 +1,113 @@
+{
+  "pixelmonName": "Melmetal",
+  "pokemon": "Melmetal",
+  "stats": {
+    "HP": 135,
+    "Attack": 143,
+    "Defence": 143,
+    "Speed": 34,
+    "SpecialAttack": 80,
+    "SpecialDefence": 65
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Steel"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meltan"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 800.0,
+  "evolutions": [],
+  "abilities": [
+    "IronFist",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Punch",
+      "Headbutt",
+      "Harden",
+      "Tail Whip",
+      "Thunder Wave"
+    ],
+    "9": [
+      "Tail Whip"
+    ],
+    "18": [
+      "Thunder Wave"
+    ],
+    "27": [
+      "Thunder Shock"
+    ],
+    "36": [
+      "Acid Armor"
+    ],
+    "45": [
+      "Flash Cannon"
+    ],
+    "54": [
+      "Mega Punch"
+    ],
+    "63": [
+      "Protect"
+    ],
+    "72": [
+      "Double Iron Bash"
+    ],
+    "81": [
+      "Superpower"
+    ],
+    "90": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Headbutt",
+    "Rest",
+    "Protect",
+    "Substitute",
+    "Facade",
+    "Thunder Wave",
+    "Rock Slide",
+    "Toxic",
+    "Ice Punch",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Self-Destruct",
+    "Solar Beam",
+    "Hyper Beam",
+    "Superpower",
+    "Flash Cannon",
+    "Ice Beam"
+  ],
+  "tutorMoves": [],
+  "forms": {},
+  "form": -1
+}

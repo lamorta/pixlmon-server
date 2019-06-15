@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Wishiwashi",
+  "pokemon": "Wishiwashi",
+  "stats": {
+    "HP": 45,
+    "Attack": 20,
+    "Defence": 20,
+    "Speed": 40,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "Schooling",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun",
+      "Growl"
+    ],
+    "6": [
+      "Helping Hand"
+    ],
+    "9": [
+      "Feint Attack"
+    ],
+    "14": [
+      "Brine"
+    ],
+    "17": [
+      "Aqua Ring"
+    ],
+    "22": [
+      "Tearful Look"
+    ],
+    "25": [
+      "Take Down"
+    ],
+    "30": [
+      "Dive"
+    ],
+    "33": [
+      "Beat Up"
+    ],
+    "38": [
+      "Aqua Tail"
+    ],
+    "41": [
+      "Double-Edge"
+    ],
+    "46": [
+      "Soak"
+    ],
+    "49": [
+      "Endeavor"
+    ],
+    "54": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Bulldoze",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Aqua Tail",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse",
+    "Helping Hand",
+    "Endeavor"
+  ],
+  "eggMoves": [
+    "Muddy Water",
+    "Mist",
+    "Water Pulse",
+    "Water Sport",
+    "Whirlpool"
+  ],
+  "forms": {},
+  "form": 0
+}

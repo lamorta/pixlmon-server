@@ -1,0 +1,214 @@
+{
+  "pixelmonName": "Chesnaught",
+  "pokemon": "Chesnaught",
+  "stats": {
+    "HP": 88,
+    "Attack": 107,
+    "Defence": 122,
+    "Speed": 64,
+    "SpecialAttack": 74,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 239,
+  "baseFriendship": 0,
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "height": 1.6,
+  "width": 1.6,
+  "length": 1.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Quilladin",
+    "Chespin"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.6
+    }
+  },
+  "weight": 90.0,
+  "evolutions": [],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Bulletproof"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Feint",
+      "Hammer Arm",
+      "Belly Drum",
+      "Tackle",
+      "Growl",
+      "Vine Whip",
+      "Needle Arm",
+      "Rollout",
+      "Spiky Shield"
+    ],
+    "5": [
+      "Vine Whip"
+    ],
+    "8": [
+      "Rollout"
+    ],
+    "11": [
+      "Bite"
+    ],
+    "15": [
+      "Leech Seed"
+    ],
+    "19": [
+      "Pin Missile"
+    ],
+    "29": [
+      "Take Down"
+    ],
+    "35": [
+      "Seed Bomb"
+    ],
+    "41": [
+      "Mud Shot"
+    ],
+    "48": [
+      "Bulk Up"
+    ],
+    "54": [
+      "Body Slam"
+    ],
+    "60": [
+      "Pain Split"
+    ],
+    "66": [
+      "Wood Hammer"
+    ],
+    "72": [
+      "Hammer Arm"
+    ],
+    "78": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Strength",
+    "Rock Smash",
+    "Drain Punch",
+    "Focus Punch",
+    "Giga Drain",
+    "Iron Tail",
+    "Snore",
+    "Thunder Punch",
+    "Work Up"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Dual Chop",
+    "Endeavor",
+    "Frenzy Plant",
+    "Grass Pledge",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Low Kick",
+    "Pain Split",
+    "Seed Bomb",
+    "Super Fang",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Curse",
+    "Defense Curl",
+    "Quick Guard",
+    "Rollout",
+    "Spikes",
+    "Synthesis",
+    "Power-Up Punch"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Mimikyu",
+  "pokemon": "Mimikyu",
+  "stats": {
+    "HP": 55,
+    "Attack": 90,
+    "Defence": 80,
+    "Speed": 96,
+    "SpecialAttack": 50,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 30,
+  "baseExp": 167,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 0.7,
+  "evolutions": [],
+  "abilities": [
+    "Disguise",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Wood Hammer",
+      "Splash",
+      "Scratch",
+      "Astonish",
+      "Copycat"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "10": [
+      "Baby-Doll Eyes"
+    ],
+    "14": [
+      "Shadow Sneak"
+    ],
+    "19": [
+      "Mimic"
+    ],
+    "23": [
+      "Feint Attack"
+    ],
+    "28": [
+      "Charm"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "37": [
+      "Shadow Claw"
+    ],
+    "41": [
+      "Hone Claws"
+    ],
+    "46": [
+      "Play Rough"
+    ],
+    "50": [
+      "Pain Split"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Leech Life",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Last Resort",
+    "Snore",
+    "Pain Split",
+    "Giga Drain",
+    "Drain Punch",
+    "Spite",
+    "After You",
+    "Trick",
+    "Magic Room",
+    "Snatch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Grudge",
+    "Destiny Bond",
+    "Curse",
+    "Nightmare"
+  ],
+  "forms": {},
+  "form": 0
+}

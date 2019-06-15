@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Lunala",
+  "pokemon": "Lunala",
+  "stats": {
+    "HP": 137,
+    "Attack": 113,
+    "Defence": 89,
+    "Speed": 97,
+    "SpecialAttack": 137,
+    "SpecialDefence": 107
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 55,
+  "spawnLevelRange": 0,
+  "baseExp": 136,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Ghost"
+  ],
+  "height": 4.2,
+  "width": 3.0,
+  "length": 3.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cosmog",
+    "Cosmoem"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    }
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "ShadowShield",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Cosmic Power",
+      "Hypnosis",
+      "Teleport",
+      "Confusion",
+      "Moongeist Beam"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "13": [
+      "Confuse Ray"
+    ],
+    "19": [
+      "Air Slash"
+    ],
+    "23": [
+      "Shadow Ball"
+    ],
+    "31": [
+      "Moonlight"
+    ],
+    "37": [
+      "Night Daze"
+    ],
+    "43": [
+      "Magic Coat"
+    ],
+    "47": [
+      "Moonblast"
+    ],
+    "59": [
+      "Dream Eater"
+    ],
+    "61": [
+      "Phantom Force"
+    ],
+    "67": [
+      "Wide Guard"
+    ],
+    "73": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Charge Beam",
+    "Sky Drop",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Giga Impact",
+    "Thunder Wave",
+    "Fly",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Signal Beam",
+    "Magic Coat",
+    "Icy Wind",
+    "Snore",
+    "Heat Wave",
+    "Tailwind",
+    "Sky Attack",
+    "Shock Wave",
+    "Spite",
+    "Trick",
+    "Magic Room",
+    "Wonder Room",
+    "Telekinesis",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0
+}

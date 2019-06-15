@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Rowlet",
+  "pokemon": "Rowlet",
+  "stats": {
+    "HP": 68,
+    "Attack": 55,
+    "Defence": 55,
+    "Speed": 42,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Dartrix"
+      },
+      "conditions": [],
+      "moves": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "LongReach"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leafage"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Peck"
+    ],
+    "11": [
+      "Astonish"
+    ],
+    "14": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Ominous Wind"
+    ],
+    "18": [
+      "Foresight"
+    ],
+    "22": [
+      "Pluck"
+    ],
+    "25": [
+      "Synthesis"
+    ],
+    "29": [
+      "Fury Attack"
+    ],
+    "32": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Leaf Blade"
+    ],
+    "39": [
+      "Feather Dance"
+    ],
+    "43": [
+      "Brave Bird"
+    ],
+    "46": [
+      "Nasty Plot"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Energy Ball",
+    "False Swipe",
+    "Shadow Claw",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Grass Pledge",
+    "Covet",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Sky Attack",
+    "Giga Drain",
+    "Worry Seed",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Confuse Ray",
+    "Ominous Wind",
+    "Haze",
+    "Baton Pass",
+    "Defog"
+  ],
+  "forms": {},
+  "form": -1
+}

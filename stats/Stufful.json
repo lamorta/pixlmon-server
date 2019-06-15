@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Stufful",
+  "pokemon": "Stufful",
+  "stats": {
+    "HP": 70,
+    "Attack": 75,
+    "Defence": 50,
+    "Speed": 50,
+    "SpecialAttack": 45,
+    "SpecialDefence": 50
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 28,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.8,
+  "evolutions": [
+    {
+      "level": 27,
+      "to": {
+        "name": "Bewear"
+      },
+      "conditions": [],
+      "moves": [
+        "Bind"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Fluffy",
+    "Klutz",
+    "CuteCharm"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer"
+    ],
+    "5": [
+      "Bide"
+    ],
+    "10": [
+      "Baby-Doll Eyes"
+    ],
+    "14": [
+      "Brutal Swing"
+    ],
+    "19": [
+      "Flail"
+    ],
+    "23": [
+      "Payback"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "32": [
+      "Hammer Arm"
+    ],
+    "37": [
+      "Thrash"
+    ],
+    "41": [
+      "Pain Split"
+    ],
+    "46": [
+      "Double-Edge"
+    ],
+    "50": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Brutal Swing",
+    "Payback",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Iron Head",
+    "Thunder Punch",
+    "Ice Punch",
+    "Superpower",
+    "Zen Headbutt",
+    "Bind",
+    "Snore",
+    "Role Play",
+    "Pain Split",
+    "Focus Punch",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Ice Punch",
+    "Thunder Punch",
+    "Force Palm",
+    "Endure",
+    "Wide Guard",
+    "Mega Kick",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": -1
+}

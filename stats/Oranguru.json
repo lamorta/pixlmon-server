@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Oranguru",
+  "pokemon": "Oranguru",
+  "stats": {
+    "HP": 90,
+    "Attack": 60,
+    "Defence": 80,
+    "Speed": 60,
+    "SpecialAttack": 90,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 76.0,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "Telepathy",
+    "Symbiosis"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Confusion"
+    ],
+    "4": [
+      "After You"
+    ],
+    "8": [
+      "Taunt"
+    ],
+    "11": [
+      "Quash"
+    ],
+    "15": [
+      "Stored Power"
+    ],
+    "18": [
+      "Psych Up"
+    ],
+    "22": [
+      "Feint Attack"
+    ],
+    "25": [
+      "Nasty Plot"
+    ],
+    "29": [
+      "Zen Headbutt"
+    ],
+    "32": [
+      "Instruct"
+    ],
+    "36": [
+      "Foul Play"
+    ],
+    "39": [
+      "Calm Mind"
+    ],
+    "43": [
+      "Psychic"
+    ],
+    "46": [
+      "Future Sight"
+    ],
+    "50": [
+      "Trick Room"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Brutal Swing",
+    "Quash",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Magic Coat",
+    "Block",
+    "Foul Play",
+    "Gravity",
+    "Zen Headbutt",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Spite",
+    "After You",
+    "Trick",
+    "Magic Room",
+    "Wonder Room",
+    "Snatch",
+    "Telekinesis",
+    "Ally Switch"
+  ],
+  "eggMoves": [
+    "Extrasensory",
+    "Wonder Room",
+    "Psychic Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Ariados",
+  "pokemon": "Ariados",
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 28,
+  "baseExp": 134,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spinarak"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 5,
+    "passive": 35,
+    "aggressive": 60
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.6
+    }
+  },
+  "weight": 33.5,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Venom Drench",
+      "Fell Stinger",
+      "Bug Bite",
+      "Poison Sting",
+      "String Shot",
+      "Absorb",
+      "Constrict",
+      "Swords Dance",
+      "Focus Energy"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "8": [
+      "Infestation"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "15": [
+      "Night Shade"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "23": [
+      "Fury Swipes"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Spider Web"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "41": [
+      "Pin Missile"
+    ],
+    "46": [
+      "Psychic"
+    ],
+    "50": [
+      "Poison Jab"
+    ],
+    "55": [
+      "Cross Poison"
+    ],
+    "58": [
+      "Sticky Web"
+    ],
+    "63": [
+      "Toxic Thread"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Captivate",
+    "Natural Gift",
+    "Swift",
+    "Secret Power",
+    "Infestation",
+    "Confide",
+    "Leech Life",
+    "Smart Strike",
+    "Swords Dance"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Foul Play",
+    "Signal Beam",
+    "String Shot",
+    "Sucker Punch",
+    "Agility",
+    "Baton Pass",
+    "Growth",
+    "Night Shade",
+    "Pursuit",
+    "Refresh",
+    "Scary Face",
+    "Sonic Boom",
+    "Screech",
+    "Snore",
+    "Throat Chop",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Disable",
+    "Electroweb",
+    "Megahorn",
+    "Night Slash",
+    "Psybeam",
+    "Pursuit",
+    "Rage Powder",
+    "Signal Beam",
+    "Toxic Spikes",
+    "Twineedle",
+    "Sonic Boom",
+    "Lunge"
+  ],
+  "forms": {},
+  "form": 0
+}

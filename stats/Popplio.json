@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Popplio",
+  "pokemon": "Popplio",
+  "stats": {
+    "HP": 50,
+    "Attack": 54,
+    "Defence": 54,
+    "Speed": 40,
+    "SpecialAttack": 66,
+    "SpecialDefence": 56
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 7.5,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Brionne"
+      },
+      "conditions": [],
+      "moves": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "LiquidVoice"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Water Gun"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Disarming Voice"
+    ],
+    "11": [
+      "Baby-Doll Eyes"
+    ],
+    "14": [
+      "Aqua Jet"
+    ],
+    "16": [
+      "Icy Wind"
+    ],
+    "18": [
+      "Encore"
+    ],
+    "22": [
+      "Bubble Beam"
+    ],
+    "25": [
+      "Sing"
+    ],
+    "29": [
+      "Double Slap"
+    ],
+    "32": [
+      "Hyper Voice"
+    ],
+    "36": [
+      "Moonblast"
+    ],
+    "39": [
+      "Captivate"
+    ],
+    "43": [
+      "Hydro Pump"
+    ],
+    "46": [
+      "Misty Terrain"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Acrobatics",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Water Pledge",
+    "Covet",
+    "Uproar",
+    "Icy Wind",
+    "Aqua Tail",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse",
+    "Helping Hand",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Amnesia",
+    "Aqua Ring",
+    "Aromatic Mist",
+    "Perish Song",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Tsareena",
+  "pokemon": "Tsareena",
+  "stats": {
+    "HP": 72,
+    "Attack": 120,
+    "Defence": 98,
+    "Speed": 72,
+    "SpecialAttack": 50,
+    "SpecialDefence": 98
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 230,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bounsweet",
+    "Steenee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 21.4,
+  "evolutions": [],
+  "abilities": [
+    "LeafGuard",
+    "QueenlyMajesty",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Punishment",
+      "Double Slap",
+      "Splash",
+      "Swagger",
+      "Rapid Spin",
+      "Razor Leaf",
+      "Trop Kick"
+    ],
+    "5": [
+      "Swagger"
+    ],
+    "9": [
+      "Rapid Spin"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "17": [
+      "Sweet Scent"
+    ],
+    "21": [
+      "Magical Leaf"
+    ],
+    "25": [
+      "Teeter Dance"
+    ],
+    "29": [
+      "Stomp"
+    ],
+    "33": [
+      "Aromatic Mist"
+    ],
+    "37": [
+      "Captivate"
+    ],
+    "41": [
+      "Aromatherapy"
+    ],
+    "45": [
+      "Leaf Storm"
+    ],
+    "49": [
+      "High Jump Kick"
+    ],
+    "53": [
+      "Power Whip"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Bounce",
+    "Low Kick",
+    "Zen Headbutt",
+    "Snore",
+    "Knock Off",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "Helping Hand",
+    "Endeavor",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Grass Whistle",
+    "Synthesis",
+    "Play Rough",
+    "Feint",
+    "Charm",
+    "Acupressure"
+  ],
+  "forms": {},
+  "form": 0
+}

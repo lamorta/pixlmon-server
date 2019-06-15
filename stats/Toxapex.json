@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Toxapex",
+  "pokemon": "Toxapex",
+  "stats": {
+    "HP": 50,
+    "Attack": 63,
+    "Defence": 152,
+    "Speed": 35,
+    "SpecialAttack": 53,
+    "SpecialDefence": 142
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 25,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Mareanie"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 14.5,
+  "evolutions": [],
+  "abilities": [
+    "Merciless",
+    "Limber",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting",
+      "Peck",
+      "Bite",
+      "Toxic Spikes",
+      "Baneful Bunker"
+    ],
+    "5": [
+      "Peck"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "13": [
+      "Toxic Spikes"
+    ],
+    "17": [
+      "Wide Guard"
+    ],
+    "21": [
+      "Toxic"
+    ],
+    "25": [
+      "Venoshock"
+    ],
+    "29": [
+      "Spike Cannon"
+    ],
+    "33": [
+      "Recover"
+    ],
+    "37": [
+      "Poison Jab"
+    ],
+    "44": [
+      "Venom Drench"
+    ],
+    "51": [
+      "Pin Missile"
+    ],
+    "58": [
+      "Liquidation"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Frost Breath",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Magic Coat",
+    "Block",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Water Pulse",
+    "Gastro Acid",
+    "Spite",
+    "After You",
+    "Snatch",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Stockpile",
+    "Spit Up",
+    "Swallow",
+    "Haze"
+  ],
+  "forms": {},
+  "form": -1
+}

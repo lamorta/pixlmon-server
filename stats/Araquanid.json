@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Araquanid",
+  "pokemon": "Araquanid",
+  "stats": {
+    "HP": 68,
+    "Attack": 70,
+    "Defence": 92,
+    "Speed": 42,
+    "SpecialAttack": 50,
+    "SpecialDefence": 132
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 50,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 4.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dewpider"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 82.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterBubble",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Wide Guard",
+      "Soak",
+      "Bubble",
+      "Infestation",
+      "Spider Web",
+      "Bug Bite"
+    ],
+    "5": [
+      "Infestation"
+    ],
+    "8": [
+      "Spider Web"
+    ],
+    "13": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Bubble Beam"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "26": [
+      "Aqua Ring"
+    ],
+    "33": [
+      "Leech Life"
+    ],
+    "38": [
+      "Crunch"
+    ],
+    "45": [
+      "Lunge"
+    ],
+    "50": [
+      "Mirror Coat"
+    ],
+    "57": [
+      "Liquidation"
+    ],
+    "62": [
+      "Entrainment"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Frost Breath",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "Magic Coat",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Giga Drain",
+    "Water Pulse",
+    "Magic Room",
+    "Wonder Room",
+    "Liquidation",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Power Split",
+    "Aurora Beam",
+    "Stockpile",
+    "Spit Up",
+    "Sticky Web"
+  ],
+  "forms": {},
+  "form": -1
+}

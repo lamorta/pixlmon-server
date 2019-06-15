@@ -1,0 +1,137 @@
+{
+  "pixelmonName": "Bounsweet",
+  "pokemon": "Bounsweet",
+  "stats": {
+    "HP": 42,
+    "Attack": 30,
+    "Defence": 38,
+    "Speed": 32,
+    "SpecialAttack": 30,
+    "SpecialDefence": 38
+  },
+  "catchRate": 235,
+  "malePercent": 0,
+  "spawnLevel": 4,
+  "spawnLevelRange": 14,
+  "baseExp": 42,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 3.2,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Steenee"
+      },
+      "conditions": [],
+      "moves": [
+        "Double Slap"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "LeafGuard",
+    "Oblivious",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "5": [
+      "Play Nice"
+    ],
+    "9": [
+      "Rapid Spin"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "17": [
+      "Sweet Scent"
+    ],
+    "21": [
+      "Magical Leaf"
+    ],
+    "25": [
+      "Teeter Dance"
+    ],
+    "29": [
+      "Flail"
+    ],
+    "33": [
+      "Aromatic Mist"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Bounce",
+    "Zen Headbutt",
+    "Snore",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "Helping Hand",
+    "Endeavor"
+  ],
+  "eggMoves": [
+    "Grass Whistle",
+    "Synthesis",
+    "Play Rough",
+    "Feint",
+    "Charm",
+    "Acupressure"
+  ],
+  "forms": {},
+  "form": 0
+}

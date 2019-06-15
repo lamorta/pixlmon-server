@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Virizion",
+  "pokemon": "Virizion",
+  "stats": {
+    "HP": 91,
+    "Attack": 90,
+    "Defence": 72,
+    "Speed": 108,
+    "SpecialAttack": 90,
+    "SpecialDefence": 129
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.3
+    }
+  },
+  "weight": 200.0,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Close Combat",
+      "Leaf Blade",
+      "Work Up",
+      "Quick Guard",
+      "Quick Attack",
+      "Leer",
+      "Double Kick",
+      "Magical Leaf"
+    ],
+    "7": [
+      "Take Down"
+    ],
+    "13": [
+      "Helping Hand"
+    ],
+    "19": [
+      "Retaliate"
+    ],
+    "25": [
+      "Giga Drain"
+    ],
+    "31": [
+      "Sacred Sword"
+    ],
+    "37": [
+      "Swords Dance"
+    ],
+    "42": [
+      "Quick Guard"
+    ],
+    "49": [
+      "Work Up"
+    ],
+    "55": [
+      "Leaf Blade"
+    ],
+    "61": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Take Down",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bounce",
+    "Helping Hand",
+    "Seed Bomb",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Leer",
+    "Laser Focus"
+  ],
+  "forms": {},
+  "form": 0
+}

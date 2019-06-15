@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Charjabug",
+  "pokemon": "Charjabug",
+  "stats": {
+    "HP": 57,
+    "Attack": 82,
+    "Defence": 95,
+    "Speed": 36,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 15,
+  "baseExp": 140,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grubbin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 10.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Vikavolt"
+      },
+      "conditions": [
+        {
+          "biomes": [
+            "minecraft:extreme_hills",
+            "minecraft:smaller_extreme_hills",
+            "minecraft:extreme_hills_with_trees",
+            "minecraft:mutated_extreme_hills",
+            "minecraft:mutated_extreme_hills_with_trees"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "moves": [
+        "Thunderbolt"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Battery",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Vice Grip",
+      "String Shot",
+      "Mud-Slap",
+      "Bite",
+      "Charge"
+    ],
+    "4": [
+      "String Shot"
+    ],
+    "7": [
+      "Mud-Slap"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Spark"
+    ],
+    "19": [
+      "Acrobatics"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "31": [
+      "X-Scissor"
+    ],
+    "37": [
+      "Dig"
+    ],
+    "43": [
+      "Discharge"
+    ],
+    "49": [
+      "Iron Defense"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Acrobatics",
+    "Volt Switch",
+    "Thunder Wave",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Magnet Rise",
+    "Iron Defense",
+    "Electroweb",
+    "Snore",
+    "Shock Wave"
+  ],
+  "eggMoves": [
+    "Harden",
+    "Electroweb",
+    "Mud Shot",
+    "Endure"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Torracat",
+  "pokemon": "Torracat",
+  "stats": {
+    "HP": 65,
+    "Attack": 85,
+    "Defence": 50,
+    "Speed": 90,
+    "SpecialAttack": 80,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Litten"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 25.0,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Incineroar"
+      },
+      "conditions": [],
+      "moves": [
+        "Darkest Lariat"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Intimidate"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Ember",
+      "Growl",
+      "Lick"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Lick"
+    ],
+    "11": [
+      "Leer"
+    ],
+    "14": [
+      "Fire Fang"
+    ],
+    "16": [
+      "Double Kick"
+    ],
+    "19": [
+      "Roar"
+    ],
+    "24": [
+      "Bite"
+    ],
+    "28": [
+      "Swagger"
+    ],
+    "33": [
+      "Fury Swipes"
+    ],
+    "37": [
+      "Thrash"
+    ],
+    "42": [
+      "Flamethrower"
+    ],
+    "46": [
+      "Scary Face"
+    ],
+    "51": [
+      "Flare Blitz"
+    ],
+    "55": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Swords Dance",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Fire Pledge",
+    "Covet",
+    "Snore",
+    "Heat Wave",
+    "Endeavor",
+    "Outrage"
+  ],
+  "eggMoves": [
+    "Nasty Plot",
+    "Body Slam",
+    "Crunch",
+    "Fake Out",
+    "Revenge",
+    "Heat Wave",
+    "Power Trip"
+  ],
+  "forms": {},
+  "form": -1
+}

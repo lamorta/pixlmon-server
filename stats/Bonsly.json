@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Bonsly",
+  "pokemon": "Bonsly",
+  "stats": {
+    "HP": 50,
+    "Attack": 80,
+    "Defence": 95,
+    "Speed": 10,
+    "SpecialAttack": 10,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Sudowoodo"
+      },
+      "conditions": [
+        {
+          "attackIndex": 137,
+          "evoConditionType": "move"
+        }
+      ],
+      "moves": [
+        "Slam"
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "RockHead",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fake Tears",
+      "Copycat"
+    ],
+    "5": [
+      "Flail"
+    ],
+    "8": [
+      "Low Kick"
+    ],
+    "12": [
+      "Rock Throw"
+    ],
+    "15": [
+      "Mimic"
+    ],
+    "19": [
+      "Feint Attack"
+    ],
+    "22": [
+      "Tearful Look"
+    ],
+    "26": [
+      "Rock Tomb"
+    ],
+    "29": [
+      "Block"
+    ],
+    "33": [
+      "Rock Slide"
+    ],
+    "36": [
+      "Counter"
+    ],
+    "40": [
+      "Sucker Punch"
+    ],
+    "43": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Double-Edge",
+    "Mimic",
+    "Self-Destruct",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Covet",
+    "Earth Power",
+    "Foul Play",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Sucker Punch",
+    "Uproar",
+    "Feint Attack",
+    "Flail",
+    "Rock Throw",
+    "Harden",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Defense Curl",
+    "Endure",
+    "Harden",
+    "Headbutt",
+    "Rollout",
+    "Sand Tomb",
+    "Self-Destruct",
+    "Stealth Rock"
+  ],
+  "forms": {},
+  "form": 0
+}

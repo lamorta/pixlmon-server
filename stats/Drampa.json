@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Drampa",
+  "pokemon": "Drampa",
+  "stats": {
+    "HP": 78,
+    "Attack": 60,
+    "Defence": 85,
+    "Speed": 36,
+    "SpecialAttack": 135,
+    "SpecialDefence": 91
+  },
+  "catchRate": 70,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Dragon"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 185.0,
+  "evolutions": [],
+  "abilities": [
+    "Berserk",
+    "SapSipper",
+    "CloudNine"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Play Nice",
+      "Echoed Voice"
+    ],
+    "5": [
+      "Twister"
+    ],
+    "9": [
+      "Protect"
+    ],
+    "13": [
+      "Glare"
+    ],
+    "17": [
+      "Light Screen"
+    ],
+    "21": [
+      "Dragon Rage"
+    ],
+    "25": [
+      "Natural Gift"
+    ],
+    "29": [
+      "Dragon Breath"
+    ],
+    "33": [
+      "Safeguard"
+    ],
+    "37": [
+      "Extrasensory"
+    ],
+    "41": [
+      "Dragon Pulse"
+    ],
+    "45": [
+      "Fly"
+    ],
+    "49": [
+      "Hyper Voice"
+    ],
+    "53": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Dragon Claw",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Shadow Claw",
+    "Giga Impact",
+    "Thunder Wave",
+    "Fly",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Snarl",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Signal Beam",
+    "Uproar",
+    "Block",
+    "Superpower",
+    "Icy Wind",
+    "Dragon Pulse",
+    "Hyper Voice",
+    "Snore",
+    "Heat Wave",
+    "Tailwind",
+    "Shock Wave",
+    "Water Pulse",
+    "Helping Hand",
+    "Endeavor",
+    "Outrage",
+    "Defog",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Hurricane",
+    "Dragon Rush",
+    "Razor Wind",
+    "Mist",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

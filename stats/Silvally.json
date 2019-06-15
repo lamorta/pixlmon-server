@@ -1,0 +1,282 @@
+{
+  "pixelmonName": "Silvally",
+  "pokemon": "Silvally",
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defence": 95,
+    "Speed": 95,
+    "SpecialAttack": 95,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.8,
+  "width": 1.5,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "TypeNull"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 100.5,
+  "evolutions": [],
+  "abilities": [
+    "RKSSystem",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Heal Block",
+      "Imprison",
+      "Iron Head",
+      "Poison Fang",
+      "Fire Fang",
+      "Ice Fang",
+      "Thunder Fang",
+      "Tackle",
+      "Multi-Attack"
+    ],
+    "5": [
+      "Rage"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "20": [
+      "Aerial Ace"
+    ],
+    "25": [
+      "Crush Claw"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "35": [
+      "X-Scissor"
+    ],
+    "40": [
+      "Take Down"
+    ],
+    "45": [
+      "Metal Sound"
+    ],
+    "50": [
+      "Crunch"
+    ],
+    "55": [
+      "Double Hit"
+    ],
+    "60": [
+      "Air Slash"
+    ],
+    "65": [
+      "Punishment"
+    ],
+    "70": [
+      "Razor Wind"
+    ],
+    "75": [
+      "Tri Attack"
+    ],
+    "80": [
+      "Double-Edge"
+    ],
+    "85": [
+      "Parting Shot"
+    ]
+  },
+  "tmMoves": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Steel Wing",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Grass Pledge",
+    "Fire Pledge",
+    "Water Pledge",
+    "Draco Meteor",
+    "Signal Beam",
+    "Iron Head",
+    "Magic Coat",
+    "Iron Defense",
+    "Last Resort",
+    "Icy Wind",
+    "Zen Headbutt",
+    "Hyper Voice",
+    "Snore",
+    "Heat Wave",
+    "Tailwind",
+    "Outrage",
+    "Defog",
+    "Laser Focus"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Grass"
+      ],
+      "form": 1
+    },
+    "2": {
+      "types": [
+        "Fire"
+      ],
+      "form": 2
+    },
+    "3": {
+      "types": [
+        "Water"
+      ],
+      "form": 3
+    },
+    "4": {
+      "types": [
+        "Flying"
+      ],
+      "form": 4
+    },
+    "5": {
+      "types": [
+        "Bug"
+      ],
+      "form": 5
+    },
+    "6": {
+      "types": [
+        "Poison"
+      ],
+      "form": 6
+    },
+    "7": {
+      "types": [
+        "Electric"
+      ],
+      "form": 7
+    },
+    "8": {
+      "types": [
+        "Psychic"
+      ],
+      "form": 8
+    },
+    "9": {
+      "types": [
+        "Rock"
+      ],
+      "form": 9
+    },
+    "10": {
+      "types": [
+        "Ground"
+      ],
+      "form": 10
+    },
+    "11": {
+      "types": [
+        "Dark"
+      ],
+      "form": 11
+    },
+    "12": {
+      "types": [
+        "Ghost"
+      ],
+      "form": 12
+    },
+    "13": {
+      "types": [
+        "Steel"
+      ],
+      "form": 13
+    },
+    "14": {
+      "types": [
+        "Fighting"
+      ],
+      "form": 14
+    },
+    "15": {
+      "types": [
+        "Ice"
+      ],
+      "form": 15
+    },
+    "16": {
+      "types": [
+        "Dragon"
+      ],
+      "form": 16
+    },
+    "17": {
+      "types": [
+        "Fairy"
+      ],
+      "form": 17
+    }
+  },
+  "form": 0
+}
