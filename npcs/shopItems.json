@@ -86,7 +86,9 @@
       "sell": 500
     },
     {
-      "name": "pixelmon:park_ball"
+      "name": "pixelmon:park_ball",
+      "buy": 1000,
+      "sell": 500
     },
     {
       "name": "pixelmon:quick_ball",
@@ -105,10 +107,12 @@
     },
     {
       "name": "pixelmon:cherish_ball",
+      "buy": 1000,
       "sell": 500
     },
     {
       "name": "pixelmon:premier_ball",
+      "buy": 1000,
       "sell": 100
     },
     {
