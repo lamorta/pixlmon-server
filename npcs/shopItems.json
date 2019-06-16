@@ -182,14 +182,17 @@
     },
     {
       "name": "pixelmon:max_revive",
+      "buy": 4000,
       "sell": 2000
     },
     {
       "name": "pixelmon:ether",
+      "buy": 1200,
       "sell": 600
     },
     {
       "name": "pixelmon:max_ether",
+      "buy": 2000,
       "sell": 1000
     },
     {

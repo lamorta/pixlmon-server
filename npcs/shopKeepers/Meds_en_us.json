@@ -1,0 +1,126 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Janet"
+    },
+    {
+      "name": "Sally"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hi, welcome to the Poké Mart. Would you like any help?",
+      "goodbye": "Bye then. Visit us again soon."
+    },
+    {
+      "hello": "Hi, how are you? Welcome to the Poké Mart. Just call out if you need any help.",
+      "goodbye": "Nice to see you. Have a great day!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:energy_powder"
+    },
+    {
+      "name": "pixelmon:energy_root"
+    },
+    {
+      "name": "pixelmon:fresh_water"
+    },
+    {
+      "name": "pixelmon:full_restore"
+    },
+    {
+      "name": "pixelmon:hyper_potion"
+    },
+    {
+      "name": "pixelmon:lemonade"
+    },
+    {
+      "name": "pixelmon:max_potion"
+    },
+    {
+      "name": "pixelmon:moomoo_milk"
+    },
+    {
+      "name": "pixelmon:Potion"
+    },
+    {
+      "name": "pixelmon:soda_pop"
+    },
+    {
+      "name": "pixelmon:super_potion"
+    },
+    {
+      "name": "pixelmon:antidote"
+    },
+    {
+      "name": "pixelmon:awakening"
+    },
+    {
+      "name": "pixelmon:burn_heal"
+    },
+    {
+      "name": "pixelmon:full_heal"
+    },
+    {
+      "name": "pixelmon:heal_powder"
+    },
+    {
+      "name": "pixelmon:ice_heal"
+    },
+    {
+      "name": "pixelmon:paralyze_heal"
+    },
+    {
+      "name": "pixelmon:elixir"
+    },
+    {
+      "name": "pixelmon:ether"
+    },
+    {
+      "name": "pixelmon:max_elixir"
+    },
+    {
+      "name": "pixelmon:max_ether"
+    },
+    {
+      "name": "pixelmon:max_revive"
+    },
+    {
+      "name": "pixelmon:revival_herb"
+    },
+    {
+      "name": "pixelmon:revive"
+    },
+    {
+      "name": "pixelmon:calcium"
+    },
+    {
+      "name": "pixelmon:carbos"
+    },
+    {
+      "name": "pixelmon:hp_up"
+    },
+    {
+      "name": "pixelmon:iron"
+    },
+    {
+      "name": "pixelmon:protein"
+    },
+    {
+      "name": "pixelmon:zinc"
+    }
+  ]
+}
