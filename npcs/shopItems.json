@@ -2406,6 +2406,51 @@
     },
     {
       "name": "pixelmon:blastoisinite"
+    },
+    {
+      "name": "pixelmon:pokemail_wood",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:apple",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:cooked_fish",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:cooked_beef",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:cooked_chicken",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:baked_potato",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:cooked_rabbit",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:rabbit_stew",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "minecraft:cooked_mutton",
+      "buy": 500,
+      "sell": 25
     }
   ]
 } 
